@@ -10,3 +10,5 @@
 - 📫 How to reach me: rshrjacharya@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Swimmer & a Chess Champion
+
+![](https://github.com/rishiraj/rishiraj/blob/master/github-contribution-grid-snake.svg)
