@@ -11,4 +11,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Swimmer & a Chess Champion
 
-![](https://github.com/rishiraj/rishiraj/blob/master/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
